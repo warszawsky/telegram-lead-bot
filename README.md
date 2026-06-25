@@ -4,6 +4,12 @@ A production-ready Telegram bot for collecting client **leads, orders, questions
 
 Built with **Python 3.12** and **aiogram 3.x** (async). Lightweight, no external services required — data is stored in SQLite.
 
+![Python](https://img.shields.io/badge/Python-3.12-3776AB?logo=python&logoColor=white)
+![aiogram](https://img.shields.io/badge/aiogram-3.13-2CA5E0?logo=telegram&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-storage-003B57?logo=sqlite&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-ready-2496ED?logo=docker&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-green)
+
 > 💼 Portfolio project. Demonstrates FSM dialogs, inline keyboards, an admin panel pattern, and a relay (two-way) chat — common building blocks for client-facing Telegram automation.
 
 ---
